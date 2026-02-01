@@ -7,8 +7,8 @@ Bem-Vindo ao meu repositório!
 
 Este projeto foi criado para usar como uma ferramenta Dashboard em Excel.
 
-Sobre
+## Sobre
 Dashboard de vendas, com informações claras, úteis, organizadas e de fácil vizualização.
 
-Uso
+## Uso
 Ao baixar o arquivo em Excel, poderá fazer ter uma visão objetiva e rápida das informações das vendas.
